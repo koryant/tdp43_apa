@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This repository code used to create figures in each figure. By analyzing 3' end-sequencing data from TDP-43 knockdown experiments, we found significant alterations in 3' UTR processing and polyadenylation site selection. Our findings demonstrate that TDP-43 plays a crucial role in APA regulation, with implications for understanding neurodegenerative diseases such as ALS and FTD where TDP-43 dysfunction is prevalent.
+This repository contains code used to create plots in each figure. By analyzing 3' end-sequencing data from TDP-43 knockdown experiments, we found significant alterations in 3' UTR processing and polyadenylation site selection. Our findings demonstrate that TDP-43 plays a crucial role in APA regulation, with implications for understanding neurodegenerative diseases such as ALS and FTD where TDP-43 dysfunction is prevalent.
 
 ## Publication
 
